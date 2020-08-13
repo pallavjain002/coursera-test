@@ -1,0 +1,54 @@
+/***Header***/
+#header-nav{
+    background-color: deepskyblue;
+    margin-bottom: 0px;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav p{ /****nav brand****/
+    color: #66FCF1;         
+    font-size:30px ;
+}
+
+#nav-list{
+    margin-top:10px;
+}
+
+#nav-list a{
+    color: rgba(215, 230, 86, 0.911);
+    font-size: 1.2em;
+}
+
+#nav-list a:hover{
+    background: grey;
+}
+
+/***Main Content***/
+#MainContent{
+    background-color: lavender;
+}
+ 
+.maintitle{
+    color: mediumorchid;
+}
+
+ 
+.Tile1{
+    height: 1200px;
+    border: 1px solid black;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: darksalmon; 
+    margin: 14px;
+}
+
+h3{
+    margin-bottom: 15px;
+    color: lightgreen;
+}
+
+.content{
+    padding: 20px;
+    text-size:30px ;
+}
